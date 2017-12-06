@@ -11,7 +11,6 @@ public class BackToTheMuseum : MonoBehaviour
     float cameraRotationXAngle;
     float cameraRotationYStartAngle;
     Quaternion cameraRotationStart;
-    Vector3 cameraRotationStartAngle;
     Vector3 cameraPosition;
     Vector3 infoPanelPosition;
     Vector3 offsetBackPanel;
@@ -23,7 +22,6 @@ public class BackToTheMuseum : MonoBehaviour
         backPanel.SetActive(false);
 
         cameraRotationStart = m_MainCamera.transform.rotation;
-        cameraRotationStartAngle = cameraRotationActual.eulerAngles;
         cameraRotationYStartAngle = cameraRotationStart.y;
     }
     void Update()

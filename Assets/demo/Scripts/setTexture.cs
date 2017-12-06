@@ -12,14 +12,9 @@ public class setTexture : MonoBehaviour, IPointerClickHandler
     public Texture texture;
 
     GameObject floor;
-    string imageName;
    void Start()
     {
     floor = GameObject.Find("geo_152");
-        imageName= gameObject.GetComponent<Image>().sprite.name;
-       // Debug.Log(imageName);
-        
-       // Debug.Log(texture);
     }
 
    
