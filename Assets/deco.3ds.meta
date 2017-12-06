@@ -1,0 +1,219 @@
+fileFormatVersion: 2
+guid: b8c500cd11743a94fb4a8211826437dd
+timeCreated: 1512384824
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Bridge Cof
+    100002: Ceiling
+    100004: Colorado L
+    100006: //RootNode
+    100008: Divided Gl
+    100010: Door or D1
+    100012: Door or D2
+    100014: Door or D3
+    100016: Door or Do
+    100018: Felix Love
+    100020: Flat Scree
+    100022: Floor
+    100024: Floor or C
+    100026: Molding
+    100028: Pillow-Bac
+    100030: Radio
+    100032: Sacar Coff
+    100034: Wall
+    100036: Wall1
+    100038: Wall2
+    100040: Wall3
+    100042: Wall4
+    100044: Wall5
+    100046: Wall6
+    100048: Window
+    100050: Window1
+    100052: Window2
+    100054: Window3
+    400000: Bridge Cof
+    400002: Ceiling
+    400004: Colorado L
+    400006: //RootNode
+    400008: Divided Gl
+    400010: Door or D1
+    400012: Door or D2
+    400014: Door or D3
+    400016: Door or Do
+    400018: Felix Love
+    400020: Flat Scree
+    400022: Floor
+    400024: Floor or C
+    400026: Molding
+    400028: Pillow-Bac
+    400030: Radio
+    400032: Sacar Coff
+    400034: Wall
+    400036: Wall1
+    400038: Wall2
+    400040: Wall3
+    400042: Wall4
+    400044: Wall5
+    400046: Wall6
+    400048: Window
+    400050: Window1
+    400052: Window2
+    400054: Window3
+    2300000: Bridge Cof
+    2300002: Ceiling
+    2300004: Colorado L
+    2300006: Divided Gl
+    2300008: Door or D1
+    2300010: Door or D2
+    2300012: Door or D3
+    2300014: Door or Do
+    2300016: Felix Love
+    2300018: Flat Scree
+    2300020: Floor
+    2300022: Floor or C
+    2300024: Molding
+    2300026: Pillow-Bac
+    2300028: Radio
+    2300030: Sacar Coff
+    2300032: Wall
+    2300034: Wall1
+    2300036: Wall2
+    2300038: Wall3
+    2300040: Wall4
+    2300042: Wall5
+    2300044: Wall6
+    2300046: Window
+    2300048: Window1
+    2300050: Window2
+    2300052: Window3
+    3300000: Bridge Cof
+    3300002: Ceiling
+    3300004: Colorado L
+    3300006: Divided Gl
+    3300008: Door or D1
+    3300010: Door or D2
+    3300012: Door or D3
+    3300014: Door or Do
+    3300016: Felix Love
+    3300018: Flat Scree
+    3300020: Floor
+    3300022: Floor or C
+    3300024: Molding
+    3300026: Pillow-Bac
+    3300028: Radio
+    3300030: Sacar Coff
+    3300032: Wall
+    3300034: Wall1
+    3300036: Wall2
+    3300038: Wall3
+    3300040: Wall4
+    3300042: Wall5
+    3300044: Wall6
+    3300046: Window
+    3300048: Window1
+    3300050: Window2
+    3300052: Window3
+    4300000: Bridge Cof
+    4300002: Ceiling
+    4300004: Colorado L
+    4300006: Divided Gl
+    4300008: Door or D1
+    4300010: Door or D2
+    4300012: Door or D3
+    4300014: Door or Do
+    4300016: Felix Love
+    4300018: Flat Scree
+    4300020: Floor
+    4300022: Floor or C
+    4300024: Molding
+    4300026: Pillow-Bac
+    4300028: Radio
+    4300030: Sacar Coff
+    4300032: Wall
+    4300034: Wall1
+    4300036: Wall2
+    4300038: Wall3
+    4300040: Wall4
+    4300042: Wall5
+    4300044: Wall6
+    4300046: Window
+    4300048: Window1
+    4300050: Window2
+    4300052: Window3
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
